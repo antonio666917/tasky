@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+:root {
+  --gray_light: #ecedec;
+  --gray_dark: #cacaca;
+  --black: black;
+  --white: white;
+  --border_radius: 8px;
+}
+
+html,
+body {
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
