@@ -44,7 +44,7 @@ function Loading() {
   return (
     <div className="loading rotating">
       <span role="img" aria-label="Loading!">
-        🧠
+        ✾
       </span>
     </div>
   );

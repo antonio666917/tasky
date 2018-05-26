@@ -34,6 +34,14 @@ class Tasky extends Component {
   handleSubmit = e => {
     e.preventDefault();
     this.setState({ loading: true, ready: false });
+
+    // send the request to dialogflow
+    // receive a response type
+    // decide what to do with the response
+    // feed the result state
+    // when the result state is fed
+    // reset the taskbar
+    // so that we are ready for the next request
   };
 
   render() {
